@@ -1,0 +1,17 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mysql_db": {
+    "host": "localhost",
+    "port": 3306,
+    "database": "mysql_jwt",
+    "password": "",
+    "name": "mysql_db",
+    "user": "root",
+    "connector": "mysql",
+    "connectTimeout": 20000,
+    "acquireTimeout": 20000
+  }
+}
